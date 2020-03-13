@@ -1,4 +1,4 @@
-# my-library-app-Java_swing-
+# Here is the list of functions of my test library app
 Books "DataBase"(Java swing);
 
 Fuctions: 
